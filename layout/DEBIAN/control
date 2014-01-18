@@ -1,0 +1,14 @@
+Package: com.autopear.lyricsforipad
+Name: Lyrics for iPad
+Depends: mobilesubstrate
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Get lyrics back on iPad!
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), gsc.ipad, preferenceloader
+Author: Merlin <lonelystars@gmail.com>
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: role::enduser
+dev: lonelystars
+Icon: file:///Applications/Music~ipad.app/Icon~ipad.png

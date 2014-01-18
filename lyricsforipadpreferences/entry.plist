@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = LyricsforiPadPreferences;
+	cell = PSLinkCell;
+	detail = LyricsforiPadPreferencesListController;
+	icon = /System/Library/PreferenceBundles/MusicSettings.bundle/icon.png;
+	isController = 1;
+	label = "Lyrics for iPad";
+    };
+}
